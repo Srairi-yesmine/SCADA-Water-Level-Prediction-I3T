@@ -44,14 +44,6 @@ Ce projet transforme la gestion réactive d’un réservoir en approche prédict
 
 ```│```
 
-```├── modeles/                        # Modèles entraînés```
-
-```│   ├── sarimax_model.pkl           # Modèle SARIMAX sauvegardé```
-
-```│   └── lstm_model.h5               # Modèle LSTM sauvegardé```
-
-```│```
-
 ```├── rapports/                       # Documentation et rapports```
 
 ```│```
