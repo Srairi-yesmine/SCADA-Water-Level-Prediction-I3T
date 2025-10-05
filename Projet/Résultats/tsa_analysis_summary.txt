@@ -1,0 +1,7 @@
+RÉSUMÉ DE L'ANALYSE DES SÉRIES TEMPORELLES
+========================================
+Taille des données: (30621, 7)
+Variable cible :  niveau_avg
+Variables exogènes : ['Débit_A', 'Débit_B']
+Période saisonnière  24 hours
+Modèle optimal : SARIMAX(1, 1, 2)x(1, 0, 1, 24)

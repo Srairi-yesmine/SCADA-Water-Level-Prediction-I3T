@@ -1,0 +1,5 @@
+MEILLEURS PARAMÈTRES SARIMAX
+==============================
+Ordre : (1, 1, 2)
+Ordre saisonnier :  (1, 0, 1, 24)
+Recommandé :(1, 1, 2)x(1, 0, 1, 24)
