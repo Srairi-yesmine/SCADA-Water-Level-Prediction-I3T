@@ -36,10 +36,6 @@ Ce projet transforme la gestion réactive d’un réservoir en approche prédict
 
 ```│```
 
-```├── data/                           # Données brutes et nettoyées (*.csv)```
-
-```│```
-
 ```├── figures d'analyse exploratoire/ # Visualisations et graphiques```
 
 ```│```
